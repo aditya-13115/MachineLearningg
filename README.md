@@ -34,8 +34,8 @@ This repository contains a collection of basic to intermediate machine learning 
 To get started, clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/ml-repo.git
-cd ml-repo
+git clone https://github.com/aditya-13115/MachineLearningg.git
+cd MachineLearningg
 pip install -r requirements.txt
 ```
 
